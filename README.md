@@ -10,3 +10,7 @@ it can now dump objects detected captured frames  only in two folders ,one holdi
 ## When To Use
 
 - CCTV Camera Videos, any recorded video of less than 1 hour(u can perform a loop from a seperate python script to perform a loop on a folde)
+
+<h2>Usage</h2>
+
+same as using regular yolov5
