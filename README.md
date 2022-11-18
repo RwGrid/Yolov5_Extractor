@@ -5,3 +5,8 @@
 
 <h1>OverView</h1>
 it can now dump objects detected captured frames  only in two folders ,one holding the images(of the detected objects) and a video concatenating the frames with better speed, it detects only on half the frame of the video 30/2=15, so every 15 frame it detects , speeding up the algorithm immensly
+
+
+## When To Use
+
+- CCTV Camera Videos, any recorded video of less than 1 hour(u can perform a loop from a seperate python script to perform a loop on a folde)
